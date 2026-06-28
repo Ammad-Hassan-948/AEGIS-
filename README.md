@@ -3,7 +3,7 @@ title: AEGIS
 emoji: 🚀
 colorFrom: blue
 colorTo: indigo
-sdk: streamlit # Or gradio / docker depending on your app
+sdk: gradio
 app_file: app.py
 pinned: false
 ---
