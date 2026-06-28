@@ -1,13 +1,11 @@
 ---
-title: AEGIS - Antibiotic Safety Assistant
-emoji: 🛡️
-colorFrom: teal
-colorTo: green
-sdk: gradio
-sdk_version: "5.9.1"
+title: AEGIS
+emoji: 🚀
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit # Or gradio / docker depending on your app
 app_file: app.py
 pinned: false
-license: apache-2.0
 ---
 
 # AEGIS — Antibiotic Safety Assistant
